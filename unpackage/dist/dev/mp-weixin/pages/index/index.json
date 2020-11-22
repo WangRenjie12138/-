@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-picker": "/uview-ui/components/u-picker/u-picker"
+  }
+}
